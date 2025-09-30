@@ -51,13 +51,6 @@ A FastAPI application for managing city data with caching and logging capabiliti
 - `POST /city` - Create or update a city
 - `GET /city/{city_name}` - Retrieve city information
 
-
-## API Endpoints
-
-- `GET /health` - Health check
-- `POST /city` - Create or update a city
-- `GET /city/{city_name}` - Retrieve city information
-
 ### Insert a new city
 
 ```bash
